@@ -8,3 +8,7 @@ A common problem in online advertising field. I used logistic regression in this
 
 ### Telecom churn prediction
 In this notebook, I compared the performance (AUC, log-loss) between logistic regression and KNN models in predicting if a user will churn and performed grid-search to find cost-optimal threshold for final labels.[Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/telecom_churn_prediction.ipynb)
+
+## Principal component analysis and clustering
+### Reducing dimension for plotting and clustering countries' indicators
+Performing PCA on countries' indicators dataset, then plotting data over the first two component space. K-mean clustering for grouping countries. [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/countries_pca_cluster.ipynb)
