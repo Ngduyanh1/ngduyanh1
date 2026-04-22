@@ -3,7 +3,7 @@ This repo is a compilation of notebooks that I have done on data analysis and ma
 
 ## Classification
 ### Taobao's click-through-rate prediction
-A common problem in online advertising field. I used logistic regression in this project to predict a probability that each user will click on an advertisement.
+A common problem in online advertising field. I used logistic regression, XGBoost, decision tree and MLP in this project to predict a probability that each user will click on an advertisement.
 [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/taobao_ctr_pred.ipynb)
 
 ### Telecom churn prediction
