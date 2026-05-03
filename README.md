@@ -3,7 +3,7 @@ This repo is a compilation of notebooks that I have done on data analysis and ma
 
 ## Classification
 ### Taobao's click-through-rate prediction
-A common problem in online advertising field. I used logistic regression, XGBoost, decision tree and MLP in this project to predict a probability that each user will click on an advertisement. In summary, the XGBoost yields the best result with an AUC of 0.64 and log-loss of 0.19. [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/taobao_ctr_pred.ipynb)
+A common problem in online advertising field. I used logistic regression, XGBoost, decision tree and MLP in this project to predict a probability that each user will click on an advertisement. In summary, the XGBoost yields the best result with an AUC of 0.64 and log-loss of 0.19. [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/tree/main/ctr_prediction)
 
 ### Telecom churn prediction
 In this notebook, I compared the performance (AUC, log-loss) between logistic regression and cross-validated KNN models in predicting if a user will churn and performed grid-search to find cost-optimal threshold for final predictions. In summary, KNN yields the best result with an AUC of 0.61 and log-loss of 0.31. [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/telecom_churn_prediction.ipynb)
