@@ -4,3 +4,5 @@
 Warning: as the dataset is large (about 20 million rows, training some models might runs into out-of-memory error), ensure you have enough resources before training the model.
 
 **- taobao_ctr_pred.css:** This css version of the notebook contains the training and evaluation of the models I ran, simply run the code on any online CSS editor and observe the results.
+
+Credit: This is a part of the final project the author has completed for a course within Georgia Tech OMSA course (ISYE 6740). 
