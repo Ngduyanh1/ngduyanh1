@@ -11,3 +11,8 @@ In this notebook, I compared the performance (AUC, log-loss) between logistic re
 ## Principal component analysis and clustering
 ### Reducing dimension for plotting and clustering countries' indicators
 Performing PCA on countries' indicators dataset, then plotting data over the first two component space. K-mean clustering for grouping countries. [Link to notebook](https://github.com/Ngduyanh1/ngduyanh1/blob/main/countries_pca_cluster.ipynb)
+
+## Experimental design
+### Golden Pocket acquisition improvement project
+Performing data analysis, qualitative research, product improvement and A/B tests to improve acquisition rate by 66%.
+[Link to report](https://github.com/Ngduyanh1/ngduyanh1/blob/main/Golden%20Pocket%20acquisition%20improvement%20project.pdf)
